@@ -1,0 +1,363 @@
+
+Ayşe eve geldiğin zaman markete git
+kullanılan bağlaç : zaman 
+1.is  
+  Özne ayşe
+ Tümleç ev
+ Yüklem gel
+2.is  
+  Tümleç market
+ Yüklem git
+
+Ayşe markete git ardından eve gel
+kullanılan bağlaç : ardından 
+1.is  
+  Özne ayşe
+ Tümleç market
+ Yüklem git
+2.is  
+  Tümleç ev
+ Yüklem gel
+
+Ali markete git en son eve gel
+kullanılan bağlaç : en son 
+1.is  
+  Özne ali
+ Tümleç market
+ Yüklem git
+2.is  
+  Tümleç ev
+ Yüklem gel
+
+Ahmet markete git sonunda eve gel
+kullanılan bağlaç : sonunda 
+1.is  
+  Özne ahmet
+ Tümleç market
+ Yüklem git
+2.is  
+  Tümleç ev
+ Yüklem gel
+
+Ayşe eve gel sonra okula git
+kullanılan bağlaç : sonra 
+Cümlenin is sırası
+1.is  
+  Özne ayşe
+ Tümleç ev
+ Yüklem gel
+2.is  
+  Tümleç okul
+ Yüklem git
+
+Okula gitmeden önce eve gel
+kullanılan bağlaç : önce 
+1.is  
+  Tümleç ev
+ Yüklem gel
+2.is  
+  Tümleç okul
+ Yüklem git
+
+
+Kapıyı geç sonra sola dön
+kullanılan bağlaç : sonra 
+Cümlenin is sırası
+1.is  
+  Nesne kapı
+ yı
+ Yüklem geç
+2.is  
+  Tümleç sol
+ Yüklem dön
+
+Kapıyı geç sonra yerdeki kutuyu al
+kullanılan bağlaç : sonra 
+Cümlenin is sırası
+1.is  
+  Nesne kapı
+ yı
+ Yüklem geç
+2.is  
+  Nesne yer
+ de
+ ki
+ kutu
+ yu
+ Yüklem al
+
+Ahmet kapıyı geç sonra kutuyu al
+kullanılan bağlaç : sonra 
+Cümlenin is sırası
+1.is  
+  Özne ahmet
+ Nesne kapı
+ yı
+ Yüklem geç
+2.is  
+  Nesne kutu
+ yu
+ Yüklem al
+
+Ahmet kapıyı geç sonra kutuyu al
+kullanılan bağlaç : sonra 
+Cümlenin is sırası
+1.is  
+  Özne ahmet
+ Nesne kapı
+ yı
+ Yüklem geç
+2.is  
+  Nesne kutu
+ yu
+ Yüklem al
+
+Ayşe eve gelmeden önce markete git
+kullanılan bağlaç : önce 
+1.is  
+  Tümleç market
+ Yüklem git
+2.is  
+  Özne ayşe
+ Tümleç ev
+ Yüklem gel
+
+Ali eve gel sonra markete git
+kullanılan bağlaç : sonra 
+Cümlenin is sırası
+1.is  
+  Özne ali
+ Tümleç ev
+ Yüklem gel
+2.is  
+  Tümleç market
+ Yüklem git
+
+
+Ali eve gel sonra da markete git
+kullanılan bağlaç : sonra 
+Cümlenin is sırası
+1.is  
+  Özne ali
+ Tümleç ev
+ Yüklem gel
+
+Ali eve gel sonra markete git
+kullanılan bağlaç : sonra 
+Cümlenin is sırası
+1.is  
+  Özne ali
+ Tümleç ev
+ Yüklem gel
+2.is  
+  Tümleç market
+ Yüklem git
+
+Ali eve gel sonra markete git
+kullanılan bağlaç : sonra 
+Cümlenin is sırası
+1.is  
+  Özne ali
+ Tümleç ev
+ Yüklem gel
+2.is  
+  Tümleç market
+ Yüklem git
+
+Ali eve gelince ödevlerini yap
+kullanılan kelime : gelince 
+1.is  
+  Özne ali
+ Tümleç ev
+ Yüklem gel
+2.is  
+  Nesne ödev
+ ler
+ in
+ Yüklem yap
+
+Ali eve gelince ödevlerini yap
+kullanılan kelime : gelince 
+1.is  
+  Özne ali
+ Tümleç ev
+ Yüklem gel
+2.is  
+  Nesne ödev
+ ler
+ in
+ Yüklem yap
+
+Ali eve gelmeden önce markete git
+kullanılan bağlaç : önce 
+1.is  
+  Tümleç market
+ Yüklem git
+2.is  
+  Özne ali
+ Tümleç ev
+ Yüklem gel
+
+Ali ödevlerini yapınca dışarı çık
+kullanılan kelime : yapınca 
+
+Ödevlerini yapınca sokağa çık
+kullanılan kelime : yapınca 
+
+Ödevlerini yapınca sokakta oyna
+kullanılan kelime : yapınca 
+
+Ali eve gelince markete git
+kullanılan kelime : gelince 
+1.is  
+  Özne ali
+ Tümleç ev
+ Yüklem gel
+2.is  
+  Tümleç market
+ Yüklem git
+
+Ali ödevlerini yapınca top oyna
+kullanılan kelime : yapınca 
+
+Ayşe ödeme yapınca top oyna
+kullanılan kelime : yapınca 
+1.is  
+  Özne Nesne ayşe
+ öde
+ +mA me
+ Yüklem yap
+2.is  
+  Nesne top
+ Yüklem oyna
+
+Ali top oyna ardından markete git
+kullanılan bağlaç : ardından 
+1.is  
+  Özne ali
+ Nesne top
+ Yüklem oyna
+2.is  
+  Tümleç market
+ Yüklem git
+
+Eve gelmeden önce markete git
+kullanılan bağlaç : önce 
+1.is  
+  Tümleç market
+ Yüklem git
+2.is  
+  Tümleç ev
+ Yüklem gel
+
+Ali eve gelince ödevlerini yap
+kullanılan kelime : gelince 
+1.is  
+  Özne ali
+ Tümleç ev
+ Yüklem gel
+2.is  
+  Nesne ödev
+ ler
+ ni
+ Yüklem yap
+
+Ayşe okuldan önce markete git
+kullanılan bağlaç : önce 
+1.is  
+  Tümleç market
+ Yüklem git
+
+Ayşe okuldan gel sonra markete git
+kullanılan bağlaç : sonra 
+Cümlenin is sırası
+1.is  
+  Özne ayşe
+ Tümleç okul
+ dan
+ Yüklem gel
+2.is  
+  Tümleç market
+ Yüklem git
+
+Ali eve gel sonra markete git
+kullanılan bağlaç : sonra 
+Cümlenin is sırası
+1.is  
+  Özne ali
+ Tümleç ev
+ Yüklem gel
+2.is  
+  Tümleç market
+ Yüklem git
+
+Ayşe okuldan gel sonra ödevlerini yap
+kullanılan bağlaç : sonra 
+Cümlenin is sırası
+1.is  
+  Özne ayşe
+ Tümleç okul
+ dan
+ Yüklem gel
+2.is  
+  Nesne ödev
+ leri
+ ni
+ Yüklem yap
+
+Ali eve gel en son markete git
+kullanılan bağlaç : en son 
+1.is  
+  Özne ali
+ Tümleç ev
+ Yüklem gel
+2.is  
+  Tümleç market
+ Yüklem git
+
+Al eve gel sonra markete git
+kullanılan bağlaç : sonra 
+Cümlenin is sırası
+1.is  
+  Özne al
+ Tümleç ev
+ Yüklem gel
+2.is  
+  Tümleç market
+ Yüklem git
+
+Ali eve gel sonra markete git
+kullanılan bağlaç : sonra 
+Cümlenin is sırası
+1.is  
+  Özne ali
+ Tümleç ev
+ Yüklem gel
+2.is  
+  Tümleç market
+ Yüklem git
+
+Ali eve gel sonra markete git
+kullanılan bağlaç : sonra 
+Cümlenin is sırası
+1.is  
+  Özne ali
+ Tümleç ev
+ Yüklem gel
+2.is  
+  Tümleç market
+ Yüklem git
+
+Aysel okula git sonra ödevini yap
+kullanılan bağlaç : sonra 
+Cümlenin is sırası
+1.is  
+  Özne aysel
+ Tümleç okul
+ Yüklem git
+2.is  
+  Nesne ödev
+ in
+ Yüklem yap
+
+

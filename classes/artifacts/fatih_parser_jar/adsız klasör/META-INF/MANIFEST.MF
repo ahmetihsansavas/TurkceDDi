@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Main-Class: com.hrzafer.fatihparser.util.FatihParserTest
+Ant-Version: Apache Ant 1.8.1
+Built-By: hrzafer
+Created-By: 1.6.0_18-b07 (Sun Microsystems Inc.)
+
